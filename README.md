@@ -26,7 +26,7 @@ This is a simple `Hello` project to demonstrate coding best practices including 
 
  ## Screenshot
 
-![img](.mockup)
+![img](./mockup)
 
 ## Built With 🛠
 
