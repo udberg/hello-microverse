@@ -22,11 +22,11 @@ This is a simple `Hello` project to demonstrate coding best practices including 
 
 ## Live Demo
 
-[Hello]()
+[Hello](https://udberg.github.io/hello-microverse/)
 
  ## Screenshot
 
-![img](.mockup.png)
+![img](.mockup)
 
 ## Built With 🛠
 
